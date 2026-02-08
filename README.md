@@ -169,12 +169,5 @@ dist
 
 This project is licensed under the MIT License.
 
----
-
-## 👨‍💻 Author
-
-Developed by **Your Name**
-Feel free to contribute or connect!
-
 ```
 ```
